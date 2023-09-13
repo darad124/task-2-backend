@@ -27,6 +27,11 @@ app.use((err, req, res, next) => {
   res.status(500).send('Something went wrong!');
 });
 
+// Route handler for the root URL
+app.get('/', (req, res) => {
+  res.send('Welcome to my API!');
+});
+
 // CREATE: Adding a new person
 app.post('/api', async (req, res, next) => {
   try {
