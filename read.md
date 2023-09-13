@@ -31,15 +31,9 @@ The API provides the following endpoints:
 For more detailed information about these endpoints, including the expected request and response formats, please refer to the [API Documentation](DOCUMENTATION.md).
 
 ## UML Diagrams
+![uml diagram crud app](https://github.com/darad124/task-2-backend/assets/70760702/4c2be342-b34d-476e-8675-b522eecd7889)
 
 https://www.taskade.com/d/FuuzAM9Yhi5QFpAs?share=edit&edit=tgS81HzJXcfMBZMt&as=orgchart
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 Let me know if you need more help! 😊
